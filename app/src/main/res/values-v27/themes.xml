@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.PressBench" parent="Theme.PressBench.Base">
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>
